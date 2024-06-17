@@ -1,6 +1,6 @@
 ## Hi 👋, I´m Ivan Diaz
 
-<h3 align="center">Very passionate about learning, motivated to contribute new ideas and work as a team.</h3>
+<h3 align="center">A developer very passionate about learning, motivated to contribute new ideas and work as a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivancapilla&label=Profile%20views&color=0e75b6&style=flat" alt="ivancapilla" /> </p>
 
